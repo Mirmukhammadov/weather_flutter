@@ -46,7 +46,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		QHnNeUzfRnf8J5mH3sMlQ/P4dvo=
+		2F30C4C03FH85KY+ygkrcxHw4AE=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		JQc1701qjhEv/YozLFSxmktl5WU=
+		3ZjgzMQT+MKgRudRM4sXJrh4ICs=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.bin</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/NOTICES.Z</key>
 		<data>
-		y7m/wP9fnJ/rZ6Bkis8JchSAddQ=
+		2TTiF38zbQW8w0YrDpsQBRtnw2E=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/assets/icons/clouds.png</key>
 		<data>
@@ -166,7 +166,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		2LEcGuCnlcTnbuZwHf0tV26IuMo=
+		BMchNb000xZK0MyqNKtVUKIdt4E=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -264,17 +264,17 @@
 		<data>
 		Ubat0LvE4LUgCwHeyl0Anx2vnzk=
 		</data>
-		<key>Frameworks/geocoding.framework/Info.plist</key>
+		<key>Frameworks/geocoding_ios.framework/Info.plist</key>
 		<data>
-		Umui3cB80i0DS8BB2bJJbxQ27FI=
+		v+euvz/0wgOz4dkfevOEWEDAlIY=
 		</data>
-		<key>Frameworks/geocoding.framework/_CodeSignature/CodeResources</key>
+		<key>Frameworks/geocoding_ios.framework/_CodeSignature/CodeResources</key>
 		<data>
-		RVkNJPnCMOhD9zVWObD7txnAw2I=
+		o7mnj1zaT5w6kj4wAOIIJvLXD9U=
 		</data>
-		<key>Frameworks/geocoding.framework/geocoding</key>
+		<key>Frameworks/geocoding_ios.framework/geocoding_ios</key>
 		<data>
-		zbRtwhcMtRe6H0+2Tl7WT4ZojgU=
+		ejcLGNP69tp5OIIwWI027N/hkY0=
 		</data>
 		<key>Frameworks/geolocator_apple.framework/Info.plist</key>
 		<data>
@@ -286,7 +286,27 @@
 		</data>
 		<key>Frameworks/geolocator_apple.framework/geolocator_apple</key>
 		<data>
-		SCEg/LbaVrlW+ppFpF3pCj679vk=
+		uzmu4XQnB6VqalqublTPJx8IayQ=
+		</data>
+		<key>Frameworks/shared_preferences_foundation.framework/Info.plist</key>
+		<data>
+		NDaa6QpCG6x4IxDLK3UguYO6qw4=
+		</data>
+		<key>Frameworks/shared_preferences_foundation.framework/_CodeSignature/CodeResources</key>
+		<data>
+		YStXbe7A94hZNiJHk+ylr7Pv660=
+		</data>
+		<key>Frameworks/shared_preferences_foundation.framework/shared_preferences_foundation</key>
+		<data>
+		HoUJQEmWYFM+uAC8FwP3aYuA0Ho=
+		</data>
+		<key>Frameworks/shared_preferences_foundation.framework/shared_preferences_foundation_privacy.bundle/Info.plist</key>
+		<data>
+		U8Jv5ZxM68weJgB+TpRlJTsiJyw=
+		</data>
+		<key>Frameworks/shared_preferences_foundation.framework/shared_preferences_foundation_privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		6uLTlq7fgHHWA8emYDf4ImHC+AY=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -373,7 +393,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/WDjjlRkiRNnXvFlQOuQ53gw9bczt6Vfi1+SuETO+bQ=
+			sSXGftvrJ5TLjBGkY11pBUcLELDKwz64VBwHO5SnzQA=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -387,7 +407,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ExrTRYD6dO6ClYBnVWAb2UG6Pa/rfHvqbP19llUD6eE=
+			6a61O1ByRG0t+9zZhSw9iaTyJfI1FTQ1o7OmdqprZ6c=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.bin</key>
@@ -415,7 +435,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uXeF41nNzvyWOSyGE92andx7BbyNGN5G//4J2KHErIM=
+			nXFk5DkQO8Ogyx9RMKgaYuadWrYwRvf1ItyhUvKieAU=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/icons/clouds.png</key>
@@ -583,7 +603,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pEAyL34khtBdBB9Jnbc1SAUNGa9hyRaLT1AXzzuE200=
+			3uXZE7pYwYRm3mt7far0xgGVVRBJ4Jm+z5KO64VYJ7Q=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
@@ -754,25 +774,25 @@
 			ZepykIMSjfzhwAcmupMrkaqvXkhza1ZE3TdHjl8odaw=
 			</data>
 		</dict>
-		<key>Frameworks/geocoding.framework/Info.plist</key>
+		<key>Frameworks/geocoding_ios.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2QIYnKFtGeIqt2Xf4Y6c0AlcoRnfCXae7dnD7LS6RL0=
+			NVJCN5dYCh2evnSJIfgUEcRASGwoEI+1OngnSof8Pr8=
 			</data>
 		</dict>
-		<key>Frameworks/geocoding.framework/_CodeSignature/CodeResources</key>
+		<key>Frameworks/geocoding_ios.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ep6H2MV7X3ZG3SvB3xKHD2NojoCan0/b2CmC9PHITng=
+			+Dk9lNEr7s/fsb6cTZg/trkKTwXUJVn5y68SKaPHzXM=
 			</data>
 		</dict>
-		<key>Frameworks/geocoding.framework/geocoding</key>
+		<key>Frameworks/geocoding_ios.framework/geocoding_ios</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6SvDLftvmdg9uz5AhiFG8AqG/HSCG6WJDPuG310rwXA=
+			0bSRZ5YAhCpGkehz4F5/a1dGSjdsgeJ+Idbi1fA5R7I=
 			</data>
 		</dict>
 		<key>Frameworks/geolocator_apple.framework/Info.plist</key>
@@ -793,7 +813,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			IHNYI4rDA3ye0Wy6pnlC5msDja9pDfyaUHlNnRI1tH4=
+			KK1t75vQQf4pEqb/vUzv+pqOCJh5u0f6HgZsPWgl1ZI=
+			</data>
+		</dict>
+		<key>Frameworks/shared_preferences_foundation.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jyYD2qhYVlRodAyDfsrI5HswGPit+Mf9G191Y1HRCbw=
+			</data>
+		</dict>
+		<key>Frameworks/shared_preferences_foundation.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UNeFDHTy8LkyFpVSbfTUAcytGqVTP+wrS5OPskK9zic=
+			</data>
+		</dict>
+		<key>Frameworks/shared_preferences_foundation.framework/shared_preferences_foundation</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RSs5EOmEmHWmp/jxSLMfeFeDZ9xO51OhOt+Bb9BBBC8=
+			</data>
+		</dict>
+		<key>Frameworks/shared_preferences_foundation.framework/shared_preferences_foundation_privacy.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TKQWsQWq2tzxMxX68VozTR69jdF/tucI5EgyX4AqSZE=
+			</data>
+		</dict>
+		<key>Frameworks/shared_preferences_foundation.framework/shared_preferences_foundation_privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BWQouTi9VwGKYAGdFcPB7i+nJ/I2h1mLu9k0hIsYCxo=
 			</data>
 		</dict>
 	</dict>
